@@ -11,7 +11,7 @@ Curator [JSfeatures.in](https://jsfeatures.in). Tech Speaker and [Podcaster.](ht
 
 Community leader at [DuckDuckGo](https://duckduckgo.com). Members - Node.js Foundation. TC39 delegate.
 
-Google Developer [Expert](https://developers.google.com/experts/people/hemanth-hm) in Web and Payments domains.
+Google Developer [Expert](https://developers.google.com/community/experts/directory/profile/profile-hemanth_hm) in Web and Payments domains.
 
 Feel free to [AMA](https://github.com/hemanth/ama/issues/new).
 
