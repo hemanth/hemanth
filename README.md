@@ -4,7 +4,7 @@
   
   <p>
     <a href="https://twitter.com/gnumanth"><img src="https://img.shields.io/twitter/follow/gnumanth?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-    <a href="https://h3manth.com"><img src="https://img.shields.io/badge/Blog-h3manth.com-black?logo=ghost&style=for-the-badge" alt="Blog" /></a>
+    <a href="https://h3manth.com/scribe"><img src="https://img.shields.io/badge/Blog-h3manth.com-black?logo=ghost&style=for-the-badge" alt="Blog" /></a>
     <a href="https://www.linkedin.com/in/hemanthhm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
     <a href="https://open.spotify.com/show/1nxtI8qbF5NEy2QdfFFZLX"><img src="https://img.shields.io/badge/Podcast-TC39er-1DB954?logo=spotify&style=for-the-badge" alt="Podcast" /></a>
     <a href="https://github.com/hemanth/ama/issues/new"><img src="https://img.shields.io/badge/Ask_Me-Anything-blue?logo=github&style=for-the-badge" alt="AMA" /></a>
@@ -27,9 +27,8 @@ I'm a proud member of the **Node.js Foundation**, a mentor for the **Google Laun
 * **Developer Productivity:** Maintaining high-impact community resources like [git-tips](https://github.com/git-tips/tips) (21k+ stars) and [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon).
 
 ### Latest Writing
-<!-- BLOG-POST-LIST:START -->
-*(Latest blog posts will automatically appear here)*
-<!-- BLOG-POST-LIST:END -->
+
+Check out my latest technical writings and personal stories at [h3manth.com/scribe](https://h3manth.com/scribe).
 
 ---
 <div align="center">
